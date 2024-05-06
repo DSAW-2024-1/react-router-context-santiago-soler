@@ -48,6 +48,6 @@ Crear un router seguro utilizando React.js, React Context y localStorage. Permit
 - Si la tarea no está desplegada, no será calificada.
 - No se calificarán tareas tardías.
 - Si el repositorio no se marca, se obtendrá una calificación de 0.
-
+Santiago Soler Prado
 **¡Buena suerte!**
 
